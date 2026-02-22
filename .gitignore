@@ -1,0 +1,9 @@
+public/
+resources/
+.hugo_build_lock
+
+# Cloudflare Tunnel Configs
+config.yml
+.cloudflared/
+*.json
+*.pem
