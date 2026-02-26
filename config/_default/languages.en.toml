@@ -16,13 +16,13 @@ title = "EA Portfolio"
 
 [params.author]
   name = "Emmanuel Andrade"
-  email = "emmanuel.andrade.dev@outlook.com"
+  email = "emmanuel.andrade.dev@gmail.com"
   image = "https://media.licdn.com/dms/image/v2/D5603AQFxAzCTuvdwKg/profile-displayphoto-scale_200_200/B56ZxurMM0KAAc-/0/1771383343363?e=2147483647&v=beta&t=oE3qj3fdNmktdC6ANzSisr0apBXrUAW_W4cXNMpJzlc"
   imageQuality = 96
   headline = "CSULB Computer Science Graduate | Network+ | Security+ | AZ-900 | SPLK-1001"
   bio = "Mexican | First Generation | Tech Enthusiast | Gym Enthusiast"
   links = [
-    { email = "mailto:emmanuel.andrade.dev@outlook.com" },
+    { email = "mailto:emmanuel.andrade.dev@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
